@@ -1,2 +1,2 @@
 # Simple_Docker_project
-Deployment of  a containerized a web application. 
+Deployment of  a containerized web application. 
